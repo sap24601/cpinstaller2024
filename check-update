@@ -1,0 +1,18 @@
+{
+   "allowAutoUpdate" : true,
+   "channelSlug" : "experimental",
+   "productSlug" : "chaseplane-msfs2024",
+   "reason" : "update_available",
+   "snapshotUpdatedAtUnix" : 1788682681,
+   "targetBuild" : {
+      "artifactKind" : "zip",
+      "artifactUrl" : "https://api.p42.io/launchpad/artifacts/launchpad%2Fchaseplane-msfs2024%2Fexperimental%2F2026.34.3.16-bld_01a01aa153feb6e5b1eaa46d7a09.zip",
+      "buildNumber" : "2026.35.4.22",
+      "changelogJson" : "{\"entries\":[{\"date\":\"Thu, 27 Aug 2026 22:10:32 GMT\",\"build\":\"2026.35.4.22\",\"title\":\"Rock Steady Cameras\",\"notes\":[],\"changes\":{\"new\":[{\"label\":[\"Added a Track Front of Airplanes option in Preferences > Camera Behaviors. Tracking cameras aim ahead of an airplane instead of centering on it, while other traffic types stay centered.\"]},{\"label\":[\"Added a Mirror button to the view adjustment overlay, so a saved cockpit or external view can be flipped to the other side of the aircraft.\"]},{\"label\":[\"Added a look-at button to saved airport views, so any tower, runway, parking, or viewpoint view you saved can be used as a look-at target.\"]},{\"label\":[\"Added a Create View button to the Plane Spotting sidebar, so you can save the current world camera without leaving the map. The map also tells you when there is more nearby traffic than ChasePlane can list.\"]}],\"improved\":[{\"label\":[\"Automatic traffic spotting picks better targets, hands over between aircraft more smoothly, and zooms more naturally while tracking.\"]},{\"label\":[\"Camera movement stays smooth through frame hitches, so a single long frame no longer sends the camera flying.\"]},{\"label\":[\"World camera shortcuts now cycle through nearby towers and viewpoints in the order they appear in the panel.\"]},{\"label\":[\"ChasePlane starts up and shuts down more reliably.\"]}],\"fixed\":[{\"label\":[\"Fixed saved cockpit views that could sit slightly off from where they were saved.\"]},{\"label\":[\"Fixed the mouse wheel changing camera zoom while you were scrolling in a popped-out or external simulator window.\"]},{\"label\":[\"Fixed Photo Mode and the simulator Drone camera so their own controls work again when switching from a ChasePlane view.\"]},{\"label\":[\"Fixed control assignments that could look unassigned when a device reports more than one identifier.\"]},{\"label\":[\"Fixed keyboard and controller assignments that could stay stuck as held after switching windows.\"]},{\"label\":[\"Fixed numpad and modifier keys being recognized as the wrong key when assigning controls.\"]},{\"label\":[\"Fixed trigger-style controller axes being calibrated from the wrong center point.\"]},{\"label\":[\"Fixed nearby traffic that could stay missing from the traffic list until a refresh.\"]},{\"label\":[\"Fixed camera loading errors when a saved view pointed at a camera the aircraft does not have.\"]},{\"label\":[\"Fixed drag previews not lining up with their rows while reordering views.\"]},{\"label\":[\"Fixed several ChasePlane Manager install and update issues, including Microsoft Store and Steam installs, shared simulator install locations, and update tasks left behind by older versions.\"]}]}}]}",
+      "changelogUrl" : null,
+      "fileName" : "p42-util-chaseplane-2024.zip",
+      "fileSizeBytes" : 77259752,
+      "minInstallerVersion" : null,
+      "sha256" : "142d2393b0fed8aa4d94d9550116fb802405d5776da86d44c6800c56850cb3b2"
+   }
+}
