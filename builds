@@ -10,7 +10,7 @@
          "fileSizeBytes" : 77259752,
          "minInstallerVersion" : null,
          "sha256" : "142d2393b0fed8aa4d94d9550116fb802405d5776da86d44c6800c56850cb3b2"
-      },
+      }
    ],
    "channelSlug" : "experimental",
    "killSwitch" : false,
