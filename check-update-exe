@@ -1,5 +1,5 @@
 {
-   "allowAutoUpdate" : false,
+   "allowAutoUpdate" : true,
    "channelSlug" : "experimental",
    "productSlug" : "chaseplane-msfs2024",
    "publicInstallerBranch" : true,
