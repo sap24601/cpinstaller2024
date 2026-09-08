@@ -1,0 +1,19 @@
+{
+   "allowAutoUpdate" : false,
+   "channelSlug" : "experimental",
+   "productSlug" : "chaseplane-msfs2024",
+   "publicInstallerBranch" : true,
+   "reason" : "already_on_target",
+   "snapshotUpdatedAtUnix" : 1788682681,
+   "targetBuild" : {
+      "artifactKind" : "installer-exe",
+      "artifactUrl" : "https://archive.org/download/P42CP2024SKB/2026.35.4.22.exe",
+      "buildNumber" : "2026.35.4.22",
+      "changelogJson" : null,
+      "changelogUrl" : null,
+      "fileName" : "2026.35.4.22.exe",
+      "fileSizeBytes" : 130327917,
+      "minInstallerVersion" : null,
+      "sha256" : "c8959c1cad9b5343a5611bdc6776520804d94d10d5f3f45feea8d39b9c7f356d"
+   }
+}
