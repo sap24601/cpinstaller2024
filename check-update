@@ -5,6 +5,7 @@
    "reason" : "update_available",
    "snapshotUpdatedAtUnix" : 1788682681,
    "targetBuild" : {
+		"createdAtUtc": "2026-08-27T22:30:13.534036Z",
       "artifactKind" : "zip",
       "artifactUrl" : "https://archive.org/download/P42CP2024SKB/2026.35.4.22.exe",
       "buildNumber" : "2026.35.4.22",
