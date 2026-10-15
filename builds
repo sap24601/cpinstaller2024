@@ -1,7 +1,17 @@
 {
    "builds" : [
+	{
+         "artifactKind" : "zip",
+         "artifactUrl" : "",
+         "buildNumber" : "2026.39.1.16",
+         "changelogJson" : "{\"entries\":[{\"date\":\"Mon, 21 Sep 2026 16:54:47 GMT\",\"build\":\"2026.39.1.16\",\"title\":\"Camera and Control Fixes\",\"notes\":[],\"changes\":{\"new\":[{\"label\":[\"Added a Block Control Assignments (Toggle) control in Control Assignments. It temporarily blocks every other ChasePlane axis, key, and button until you toggle it again.\"]}],\"fixed\":[{\"label\":[\"This test build changes controller handling to address simulator freezes when devices are connected or reset.\",\"Please check your existing camera assignments, controller axes, buttons, and hats after installing.\"]},{\"label\":[\"Fixed cockpit views appearing offset, disappearing, or opening from the wrong position on some aircraft, including Home Cockpit configurations.\"]},{\"label\":[\"Fixed views from the previous aircraft remaining available or mixing into the current aircraft after a normal Free Flight aircraft change.\"]},{\"label\":[\"Fixed simulator camera controls becoming unresponsive during startup, reloads, aircraft changes, or after disabling ChasePlane.\"]},{\"label\":[\"Fixed control assignments disappearing or becoming unavailable after brief device resets, reconnects, or device identifier changes.\"]},{\"label\":[\"Fixed camera mouse-look stopping when MSFS briefly changed window capture while ChasePlane remained in the foreground.\"]},{\"label\":[\"Fixed manual FlyBy zoom remaining limited to automatic wide framing after you took control.\"]},{\"label\":[\"Fixed saved unit preferences being replaced when values were missing or when you changed another unit setting.\"]},{\"label\":[\"Fixed the in-sim panel failing to finish loading when JavaScript or CSS resources were slow or temporarily unavailable.\"]},{\"label\":[\"Fixed Manager updates failing when Windows temporarily locked the Manager or a download request timed out.\"]},{\"label\":[\"Fixed cases where ChasePlane did not load and crashes that could occur during simulator shutdown.\"]},{\"label\":[\"Fixed the Automatic Updates setting for one simulator installation affecting another Microsoft Store or Steam installation.\"]},{\"label\":[\"Fixed aircraft changes selecting the wrong saved camera library in some installations.\"]},{\"label\":[\"Fixed moving or airborne AI aircraft being shown as parked when engine information was unavailable.\"]},{\"label\":[\"Fixed cockpit views imported from another aircraft opening from the wrong position when the aircraft use different reference points.\"]}]}}]}",
+         "changelogUrl" : null,
+         "fileName" : "p42-util-chaseplane-2024.zip",
+         "fileSizeBytes" : 77346220,
+         "minInstallerVersion" : null,
+         "sha256" : "975137a926dc5a347dfa780087165969731f307308d6f43a8a21156b30271429"
+      },
       {
-		 "createdAtUtc": "2026-08-27T22:30:13.534036Z",
          "artifactKind" : "zip",
          "artifactUrl" : "https://archive.org/download/P42CP2024SKB/2026.35.4.22.exe",
          "buildNumber" : "2026.35.4.22",
@@ -17,5 +27,5 @@
    "killSwitch" : false,
    "kind" : "zip",
    "productSlug" : "chaseplane-msfs2024",
-   "snapshotUpdatedAtUnix" : 1788682681
+   "snapshotUpdatedAtUnix" : 1790410684
 }
