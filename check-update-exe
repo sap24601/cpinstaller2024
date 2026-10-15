@@ -12,8 +12,8 @@
       "changelogJson" : null,
       "changelogUrl" : null,
       "fileName" : "2026.39.1.16.exe",
-      "fileSizeBytes" : 130432813,
+      "fileSizeBytes" : 130424109,
       "minInstallerVersion" : null,
-      "sha256" : "f2935090f47688248e27c90db59efefa06ee9ddf8fab4f375caec7426affbd6a"
+      "sha256" : "e36b3bb3cd0e6c944dcb2521dd6c5fe2cb6a9dc611f55024638d7619f989025c"
    }
 }
