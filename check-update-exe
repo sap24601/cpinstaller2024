@@ -8,12 +8,12 @@
    "targetBuild" : {
       "artifactKind" : "installer-exe",
       "artifactUrl" : "https://archive.org/download/P42CP2024SKB/2026.35.4.22.exe",
-      "buildNumber" : "2026.35.4.22",
+      "buildNumber" : "2026.39.1.16",
       "changelogJson" : null,
       "changelogUrl" : null,
-      "fileName" : "2026.35.4.22.exe",
-      "fileSizeBytes" : 130327917,
+      "fileName" : "2026.39.1.16.exe",
+      "fileSizeBytes" : 130432813,
       "minInstallerVersion" : null,
-      "sha256" : "c8959c1cad9b5343a5611bdc6776520804d94d10d5f3f45feea8d39b9c7f356d"
+      "sha256" : "f2935090f47688248e27c90db59efefa06ee9ddf8fab4f375caec7426affbd6a"
    }
 }
